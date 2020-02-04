@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg2">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/E_Ticket"
+        android:layout_width="398dp"
+        android:layout_height="107dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="155dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/e_ticket"
+        android:textSize="17sp"
+        app:backgroundTint="#848285"
+        app:cornerRadius="80dp"
+        app:icon="@drawable/icon_ticket"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BarcodeTicket"
+        tools:ignore="MissingConstraints,RtlHardcoded" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/BarcodeTicket"
+        android:layout_width="404dp"
+        android:layout_height="104dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="39dp"
+        android:layout_marginTop="160dp"
+        android:text="@string/barcode_ticket"
+        android:textSize="17sp"
+        app:backgroundTint="#603c8e"
+        app:cornerRadius="80dp"
+        app:icon="@drawable/icon_scan"
+        app:layout_constraintBottom_toTopOf="@+id/E_Ticket"
+        app:layout_constraintEnd_toEndOf="@+id/E_Ticket"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/E_Ticket"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>

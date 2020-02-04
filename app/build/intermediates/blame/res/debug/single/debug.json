@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_validate_ticket.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\btn_validate_ticket.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\layout_attendees_details.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\layout\\attendees_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_print.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\btn_print.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\xml_filter_nfc.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t3.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\t3.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_portrait.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_delete_128.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\icons8_delete_128.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dark_gray.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\dark_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_confirm.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\btn_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text1.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\text1.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_arrow.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\icon_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_afterscan.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\afterscan.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_startt.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\layout\\fragment_startt.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_invalid.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\invalid.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_light_gray.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\light_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_print.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\icon_print.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\raw_eventrance_public_key.pem.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\raw\\eventrance_public_key.pem"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_confirm.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\icon_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialoge_layout.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\layout\\dialoge_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_back.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\btn_back.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text3.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\text3.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_transition.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\anim\\anim_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_history.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\icon_history.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ticket_validation.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\layout\\activity_ticket_validation.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_ticket.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\icon_ticket.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_history.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\btn_history.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\layout_scan_layout.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\layout\\scan_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\font_josefin_sans.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\font\\josefin_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_dashboard.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\layout\\main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\layout_show_list.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\layout\\show_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen2.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\screen2.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text2.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\text2.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_event_history.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\event_history.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_scan.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\icon_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_valid.jpg.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\valid.jpg"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\G523822\\eg-id-cbe-ekyc\\trunk\\Cairo ICT\\Event Management\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    }
+]

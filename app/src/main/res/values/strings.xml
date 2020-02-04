@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Eventrance</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan">Scan</string>
+    <string name="show_list">Show List</string>
+    <string name="validate_ticket_invitation">Validate Ticket/Invitation</string>
+    <string name="history">History</string>
+    <string name="confirm">Confirm</string>
+    <string name="print">PRINT</string>
+    <string name="back">BACK</string>
+    <string name="load_excel_sheet_data">Load Guests Data</string>
+    <string name="load_delete_data">LOAD/DELETE DATA</string>
+    <string name="delete_event_data">RESET Event Data</string>
+    <string name="cancel">Cancel</string>
+    <string name="barcode_ticket">Barcode Ticket</string>
+    <string name="e_ticket">E-Ticket</string>
+</resources>

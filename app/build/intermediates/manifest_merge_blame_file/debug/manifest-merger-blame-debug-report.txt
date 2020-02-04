@@ -1,0 +1,189 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.eventmanagement"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:5:5-68
+11-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:6:5-64
+12-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:6:22-62
+13    <uses-permission android:name="android.permission.NFC" />
+13-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:7:5-62
+13-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:7:22-59
+14
+15    <uses-feature
+15-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:8:5-80
+16        android:name="android.hardware.nfc"
+16-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:8:19-54
+17        android:required="true" />
+17-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:8:55-78
+18
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:9:5-66
+19-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:9:22-63
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:10:5-81
+20-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:10:22-78
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:11:5-80
+21-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:11:22-77
+22
+23    <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+24    <uses-feature
+24-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:24:5-26:36
+25        android:name="android.hardware.camera"
+25-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:25:9-47
+26        android:required="false" />
+26-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:26:9-33
+27    <uses-feature
+27-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:27:5-29:36
+28        android:name="android.hardware.camera.front"
+28-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:28:9-53
+29        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+29-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:29:9-33
+30    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+31    <uses-feature
+31-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:32:5-34:36
+32        android:name="android.hardware.camera.autofocus"
+32-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:33:9-57
+33        android:required="false" />
+33-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:34:9-33
+34    <uses-feature
+34-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:35:5-37:36
+35        android:name="android.hardware.camera.flash"
+35-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:36:9-53
+36        android:required="false" />
+36-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:37:9-33
+37    <uses-feature
+37-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:38:5-40:36
+38        android:name="android.hardware.screen.landscape"
+38-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:39:9-57
+39        android:required="false" />
+39-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:40:9-33
+40    <uses-feature
+40-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:41:5-43:36
+41        android:name="android.hardware.wifi"
+41-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:42:9-45
+42        android:required="false" />
+42-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:43:9-33
+43
+44    <application
+44-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:14:5-52:19
+45        android:name="com.morpho.eventmanagement.Program"
+45-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:18:9-32
+46        android:allowBackup="false"
+46-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:15:9-36
+47        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+47-->[androidx.core:core:1.1.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\65dd35f103f68a57c41d59facf99df05\core-1.1.0\AndroidManifest.xml:24:18-86
+48        android:debuggable="true"
+49        android:icon="@mipmap/ic_launcher"
+49-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:16:9-43
+50        android:label="@string/app_name"
+50-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:17:9-41
+51        android:roundIcon="@mipmap/ic_launcher_round"
+51-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:19:9-54
+52        android:supportsRtl="true"
+52-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:20:9-35
+53        android:theme="@style/AppTheme" >
+53-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:21:9-40
+54        <activity android:name="com.morpho.eventmanagement.MainActivity" >
+54-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:22:9-23:20
+54-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:22:19-73
+55        </activity>
+56        <activity android:name="com.morpho.eventmanagement.MainDashBoard" >
+56-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:25:9-26:20
+56-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:25:19-74
+57        </activity>
+58        <activity android:name="com.morpho.eventmanagement.Splash" >
+58-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:28:9-33:20
+58-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:28:19-41
+59            <intent-filter>
+59-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:29:13-32:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:30:17-69
+60-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:30:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:31:17-77
+62-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:31:27-74
+63            </intent-filter>
+64        </activity>
+65        <activity android:name="com.morpho.eventmanagement.NFCActivity" >
+65-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:34:9-38:20
+65-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:34:19-46
+66            <intent-filter>
+66-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:35:13-37:29
+67                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+67-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:36:17-76
+67-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:36:25-74
+68            </intent-filter>
+69        </activity>
+70        <activity android:name="com.morpho.eventmanagement.ScanFragment" >
+70-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:39:9-40:20
+70-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:39:19-73
+71        </activity>
+72        <activity android:name="com.morpho.eventmanagement.ShowListFragment" >
+72-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:42:9-43:20
+72-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:42:19-77
+73        </activity>
+74
+75        <meta-data
+75-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:44:9-46:39
+76            android:name="com.google.android.gms.vision.DEPENDENCIES"
+76-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:45:13-70
+77            android:value="barcode" />
+77-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:46:13-36
+78        <meta-data
+78-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:47:9-49:57
+79            android:name="preloaded_fonts"
+79-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:48:13-43
+80            android:resource="@array/preloaded_fonts" />
+80-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:49:13-54
+81        <meta-data
+81-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:50:9-106
+82            android:name="android.nfc.action.TECH_DISCOVERED"
+82-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:50:20-69
+83            android:resource="@xml/filter_nfc" />
+83-->C:\Users\G523822\Registeration-by-QRCode\app\src\main\AndroidManifest.xml:50:70-104
+84
+85        <activity
+85-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:46:9-52:63
+86            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+86-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:47:13-74
+87            android:clearTaskOnLaunch="true"
+87-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:48:13-45
+88            android:screenOrientation="sensorLandscape"
+88-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:49:13-56
+89            android:stateNotNeeded="true"
+89-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:50:13-42
+90            android:theme="@style/zxing_CaptureTheme"
+90-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:51:13-54
+91            android:windowSoftInputMode="stateAlwaysHidden" />
+91-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\1fcd5fa818d1334e84f96ab78b1802cc\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:52:13-60
+92        <activity
+92-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\733cc6aa6f9b98ed3fce149afc5e6a3e\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+93-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\733cc6aa6f9b98ed3fce149afc5e6a3e\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+94            android:exported="false"
+94-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\733cc6aa6f9b98ed3fce149afc5e6a3e\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\733cc6aa6f9b98ed3fce149afc5e6a3e\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+96
+97        <meta-data
+97-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\126cad692492200641c2f59e9ca8160a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+98            android:name="com.google.android.gms.version"
+98-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\126cad692492200641c2f59e9ca8160a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+99            android:value="@integer/google_play_services_version" />
+99-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\G523822\.gradle\caches\transforms-2\files-2.1\126cad692492200641c2f59e9ca8160a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+100    </application>
+101
+102</manifest>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    tools:ignore="UnusedNavigation"
+    app:startDestination="@id/starttFragment">
+    <fragment
+        android:id="@+id/scanFragment"
+        android:name="com.morpho.eventmanagement.ScanFragment"
+        android:label="ScanFragment" />
+    <fragment
+        android:id="@+id/showListFragment"
+        android:name="com.morpho.eventmanagement.ShowListFragment"
+        android:label="ShowListFragment" />
+    <fragment
+        android:id="@+id/starttFragment"
+        android:name="com.morpho.eventmanagement.StarttFragment"
+        android:label="fragment_startt"
+        tools:layout="@layout/fragment_startt" >
+        <action
+            android:id="@+id/action_starttFragment_to_scanFragment"
+            app:destination="@id/scanFragment" />
+        <action
+            android:id="@+id/action_starttFragment_to_showListFragment"
+            app:destination="@id/showListFragment" />
+    </fragment>
+</navigation>

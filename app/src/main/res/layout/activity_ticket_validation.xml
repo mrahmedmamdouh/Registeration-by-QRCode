@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:background="@drawable/afterscan">-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/VIP"-->
+<!--        android:layout_width="180dp"-->
+<!--        android:layout_height="26dp"-->
+<!--        android:background="#e8e6e6 "-->
+<!--        android:text=""-->
+<!--        android:textColor="#848285"-->
+<!--        android:textSize="20sp"-->
+<!--        app:fontFamily="@font/josefin_sans"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/Job"-->
+<!--        app:layout_constraintEnd_toStartOf="@+id/Category"-->
+<!--        app:layout_constraintHorizontal_bias="0.506"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.708"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/Job"-->
+<!--        android:layout_width="243dp"-->
+<!--        android:layout_height="31dp"-->
+<!--        android:layout_marginTop="244dp"-->
+<!--        android:background="#e8e6e6 "-->
+<!--        android:text=""-->
+<!--        android:textColor="#848285"-->
+<!--        android:textSize="20sp"-->
+<!--        app:fontFamily="@font/josefin_sans"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/Entity"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.308"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.0"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/Entity"-->
+<!--        android:layout_width="243dp"-->
+<!--        android:layout_height="32dp"-->
+<!--        android:layout_marginTop="288dp"-->
+<!--        android:background="#e8e6e6 "-->
+<!--        android:text=""-->
+<!--        android:textColor="#848285"-->
+<!--        android:textSize="20sp"-->
+<!--        app:fontFamily="@font/josefin_sans"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/Email"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.308"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.15"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/Email"-->
+<!--        android:layout_width="243dp"-->
+<!--        android:layout_height="31dp"-->
+<!--        android:layout_marginBottom="14dp"-->
+<!--        android:layout_marginTop="337dp"-->
+<!--        android:background="#e8e6e6 "-->
+<!--        android:text=""-->
+<!--        android:textColor="#848285"-->
+<!--        android:textSize="20sp"-->
+<!--        app:fontFamily="@font/josefin_sans"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/Phone"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.308"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.0"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/Phone"-->
+<!--        android:layout_width="243dp"-->
+<!--        android:layout_height="26dp"-->
+<!--        android:background="#e8e6e6 "-->
+<!--        android:text=""-->
+<!--        android:textColor="#848285"-->
+<!--        android:textSize="20sp"-->
+<!--        app:fontFamily="@font/josefin_sans"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.308"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.747"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/Category"-->
+<!--        android:layout_width="240dp"-->
+<!--        android:layout_height="30dp"-->
+<!--        android:background="#e8e6e6 "-->
+<!--        android:text=""-->
+<!--        android:textColor="#848285"-->
+<!--        android:textSize="20sp"-->
+<!--        app:fontFamily="@font/josefin_sans"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/Title"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.62"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.916"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/Title"-->
+<!--        android:layout_width="300dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginBottom="56dp"-->
+<!--        android:layout_marginTop="200dp"-->
+<!--        android:background="#e8e6e6 "-->
+<!--        android:text=""-->
+<!--        android:textColor="#848285"-->
+<!--        android:textSize="20sp"-->
+<!--        app:fontFamily="@font/josefin_sans"-->
+<!--        app:layout_constraintBottom_toBottomOf="@+id/Job"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.554"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <com.google.android.material.button.MaterialButton-->
+<!--        android:id="@+id/confirm"-->
+<!--        android:layout_width="226dp"-->
+<!--        android:layout_height="70dp"-->
+<!--        android:text="@string/confirm"-->
+<!--        app:backgroundTint="#603c8e"-->
+<!--        app:cornerRadius="80dp"-->
+<!--        android:textSize="20sp"-->
+<!--        app:icon="@drawable/icon_confirm"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.902"-->
+<!--        tools:ignore="MissingConstraints" />-->
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="192dp"
+        android:background="@drawable/portrait"
+        android:layout_marginTop="75dp"
+        android:layout_marginLeft="750dp" />
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="رقم التذكرة"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="400dp"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="220"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:id="@+id/txt_TicketNumber"
+        android:gravity="right"/>
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="الاسم"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="400dp"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="اسم مالك التذكرة"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:id="@+id/txt_TicketOwner"
+        android:gravity="right"/>
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="تاريخ الصلاحية"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="400dp"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="30/09/2019"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:id="@+id/txt_ValidityDate"
+        android:gravity="right"/>
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="الدرجة"
+        android:layout_marginTop="290dp"
+        android:layout_marginLeft="400dp"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="كبار الزوار"
+        android:layout_marginTop="290dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:id="@+id/txt_Class"/>
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="البوابة المصرح الدخول منها"
+        android:layout_marginTop="360dp"
+        android:layout_marginLeft="400dp"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="بوابة رقم 3"
+        android:layout_marginTop="360dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:id="@+id/txt_GateNumber"/>
+
+    <ImageView
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:background="@drawable/valid"
+        android:layout_marginTop="290dp"
+        android:layout_marginLeft="777dp"
+        android:visibility="gone"
+        android:id="@+id/img_TicketValidityStatus"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="تذكرة صالحة"
+        android:layout_marginTop="390dp"
+        android:layout_marginLeft="770dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_green_dark"
+        android:visibility="gone"
+        android:id="@+id/txt_ValidTicket"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="تذكرة غير صالحة"
+        android:layout_marginTop="390dp"
+        android:layout_marginLeft="750dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_red_dark"
+        android:visibility="gone"
+        android:id="@+id/txt_InvalidTicket"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:text="@string/back"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="20dp"
+        android:onClick="onDismissScreen"/>
+
+</RelativeLayout>
