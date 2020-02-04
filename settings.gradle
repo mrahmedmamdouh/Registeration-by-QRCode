@@ -1,0 +1,2 @@
+rootProject.name='Event Management'
+include ':app', ':nxpnfcandroidlib-1.7'
